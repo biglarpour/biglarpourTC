@@ -1,0 +1,227 @@
+[
+    {
+        "Category": "Joining", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 1, 
+        "Rank": "Meet the age requirements. Be a boy who is 11 years old, or one who has completed the fifth grade or earned the Arrow of Light Award and is at least 10 years old, but is not yet 18 years old.", 
+        "Numerical Order": 1, 
+        "rankName": "Scout"
+    }, 
+    {
+        "Category": "Joining", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 2, 
+        "Rank": "Find a Scout troop near your home.", 
+        "Numerical Order": 1, 
+        "rankName": "Scout"
+    }, 
+    {
+        "Category": "Joining", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 3, 
+        "Rank": "Complete a Boy Scout application and health history signed by your parent or guardian.", 
+        "Numerical Order": 1, 
+        "rankName": "Scout"
+    }, 
+    {
+        "Category": "Joining", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 4, 
+        "Rank": "Repeat the Pledge of Allegiance.", 
+        "Numerical Order": 1, 
+        "rankName": "Scout"
+    }, 
+    {
+        "Category": "Joining", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 5, 
+        "Rank": "Demonstrate the Scout sign, salute, and handshake.", 
+        "Numerical Order": 1, 
+        "rankName": "Scout"
+    }, 
+    {
+        "Category": "Joining", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 6, 
+        "Rank": "Demonstrate tying the square knot (a joining knot).", 
+        "Numerical Order": 1, 
+        "rankName": "Scout"
+    }, 
+    {
+        "Category": "Joining", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 7, 
+        "Rank": "Understand and agree to live by the Scout Oath, Scout Law, motto, slogan, and the Outdoor Code.", 
+        "Numerical Order": 1, 
+        "rankName": "Scout"
+    }, 
+    {
+        "Category": "Joining", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 8, 
+        "Rank": "Describe the Scout badge.", 
+        "Numerical Order": 1, 
+        "rankName": "Scout"
+    }, 
+    {
+        "Category": "Joining", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 9, 
+        "Rank": "Complete the pamphlet exercises. With your parent or guardian, complete the exercises in the pamphlet \"How to Protect Your Children from Child Abuse: A Parent's Guide\".", 
+        "Numerical Order": 1, 
+        "rankName": "Scout"
+    }, 
+    {
+        "Category": "Joining", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 10, 
+        "Rank": "Participate in a Scoutmaster conference. Turn in your Boy Scout application and health history form signed by your parent or guardian, then participate in a Scoutmaster conference.", 
+        "Numerical Order": 2, 
+        "rankName": "Scout"
+    }, 
+    {
+        "Category": "Camping", 
+        "Campout/Outing": "C", 
+        "Minimum Time": "", 
+        "Number": 1, 
+        "Rank": "Present yourself to your\u00a0leader, properly dressed, before going on an overnight camping trip. Show the\u00a0camping gear\u00a0you will use. Show the right way to pack and carry it.", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Camping", 
+        "Campout/Outing": "C", 
+        "Minimum Time": "", 
+        "Number": 2, 
+        "Rank": "Spend at least one night on a\u00a0patrol\u00a0or\u00a0troop\u00a0campout. Sleep in a tent you have helped pitch.", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Cooking", 
+        "Campout/Outing": "C", 
+        "Minimum Time": "", 
+        "Number": 3, 
+        "Rank": "On the campout, assist in preparing and cooking one of your patrol's meals. Tell why it is important for each patrol member to share in meal preparation and cleanup, and explain the importance of eating together.", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Pioneering", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": "4a", 
+        "Rank": "Demonstrate how to\u00a0whip and fuse\u00a0the ends of a rope", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Pioneering", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": "4b", 
+        "Rank": "Demonstrate you know how to tie the following knots and tell what their uses are:\u00a0two half hitches\u00a0and the\u00a0taut-line hitch.", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Pioneering", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": "4c", 
+        "Rank": "Using the\u00a0EDGE method, teach another person how to tie the square knot.", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Hiking/Orienteering", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 5, 
+        "Rank": "Explain the rules of safe hiking, both on the highway and cross-country, during the day and at night. Explain what to do if you are lost.", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Citizenship", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 6, 
+        "Rank": "Demonstrate how to\u00a0display, raise, lower, and fold the American flag.", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Scout Spirit", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 7, 
+        "Rank": "Repeat from memory and explain in your own words the\u00a0Scout Oath,\u00a0Law,\u00a0motto, and\u00a0slogan.", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Scout Spirit", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 8, 
+        "Rank": "Know your\u00a0patrol\u00a0name, give the patrol yell, and describe your patrol flag.", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Other", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 9, 
+        "Rank": "Explain the importance of the\u00a0buddy system\u00a0as it relates to your personal safety on outings and in your neighborhood. Describe what a bully is and how you should respond to one.", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Fitness", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": "10a", 
+        "Rank": "Record your best for the following tests: pushups, pullups, standing long jump, 1/4 mile run", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Fitness", 
+        "Campout/Outing": "", 
+        "Minimum Time": "1 Month", 
+        "Number": "10b", 
+        "Rank": "Show improvement in the activities listed in requirement 10a after practicing for 30 days.", 
+        "Numerical Order": 4, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "Nature", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": 11, 
+        "Rank": "Identify local poisonous plants; tell how to treat for exposure to them.", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }, 
+    {
+        "Category": "First Aid", 
+        "Campout/Outing": "", 
+        "Minimum Time": "", 
+        "Number": "12a", 
+        "Rank": "Demonstrate how to care for someone who is choking.", 
+        "Numerical Order": 3, 
+        "rankName": "Tenderfoot"
+    }
+]
